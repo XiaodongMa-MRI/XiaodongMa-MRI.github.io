@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PostDoctoral Research Associate
+title: Xiaodong Ma, Ph.D.
 email: maxiaodong08@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website! My name is Xiaodong Ma, a passionate MRI researcher.
